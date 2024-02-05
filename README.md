@@ -12,11 +12,11 @@ The project evaluates the performance of Google BigQuery and MySQL across two da
 
 ### Google BigQuery
 
-Google BigQuery is a serverless, cloud-based data warehouse known for its scalability and high-speed processing capabilities. It operates with SQL-based queries, offers built-in machine learning features, and facilitates cross-cloud analytics.
+Google Cloud Platform (GCP) is a top cloud computing platform that gives businesses access to an extensive range of cloud services that enable them to efficiently develop, implement, and grow applications. At the heart of GCP's data analytics capabilities is BigQuery, a fully managed, serverless, cloud-based data warehouse known for its scalability and high-speed processing capabilities. It operates with SQL-based queries, offers built-in machine learning features, and facilitates cross-cloud analytics.
 
 ### MySQL
 
-MySQL is an open-source relational database management system recognized for its reliability, cost-effectiveness, and flexibility in cloud deployment. It is widely used in diverse web applications and offers robust performance for transactional operations and smaller datasets.
+MySQL is an open-source relational database management system recognized for its reliability, cost-effectiveness, and flexibility in cloud deployment. It is widely used in diverse web applications and offers robust performance for transactional operations and smaller datasets. MySQL Workbench stands as a pivotal tool, offering a user-friendly environment for the administration and design of MySQL databases.
 
 ## Dataset Description
 
