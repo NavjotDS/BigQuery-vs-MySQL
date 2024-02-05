@@ -26,10 +26,6 @@ This dataset is publicly accessible and can be directly queried using GoogleSQL 
 
 We have also derived a subset of the London Crimes dataset, containing approximately 0.1 million rows, by executing a select query within the BigQuery platform. The results of this query were exported to a CSV file, constituting our smaller dataset.
 
-## Experiment Environment Setup
-
-Google BigQuery and MySQL were employed for storing and querying the datasets. The setup process for both platforms involved importing CSV files, creating tables, and configuring Python environments for querying.
-
 ## Evaluation Metrics
 
 Query processing time serves as the primary evaluation metric, reflecting the duration taken by each system to execute queries and retrieve results. It provides insights into system efficiency, user experience, resource utilization, and scalability.
